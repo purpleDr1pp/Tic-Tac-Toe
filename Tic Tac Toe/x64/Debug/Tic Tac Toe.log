@@ -1,0 +1,4 @@
+﻿  3pleT.cpp
+C:\c++\глава 6\Tic Tac Toe\Tic Tac Toe\3pleT.cpp(148,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\c++\глава 6\Tic Tac Toe\Tic Tac Toe\3pleT.cpp(152,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Tic Tac Toe.vcxproj -> C:\c++\глава 6\Tic Tac Toe\x64\Debug\Tic Tac Toe.exe
